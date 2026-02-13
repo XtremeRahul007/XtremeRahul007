@@ -1,7 +1,7 @@
-# Rahul - Full Stack Developer in Progress.
+# Rahul - Full Stack Developer in Progress
 
 ## About Me
-Focused on building production style web applications with strong logic & fundamentals.
+Focused on building production style web applications with strong logic & fundamentals
 
 ## Tech Stack
 - HTML
@@ -12,6 +12,11 @@ Focused on building production style web applications with strong logic & fundam
 ## Learning Deeply
 - Responsive UI architecture
 - Core JavaScript fundamentals (logic, state, array, DOM, async patterns)
+
+
+## Long-Term Direction
+Designing scalable backend-driven applications using Node.js and structured architecture
+
 
 ## Currently Building 
 - **Smart File Manager**
