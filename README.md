@@ -1,4 +1,4 @@
-# Rahul - Full Stack Developer in Progress 👋
+# Rahul - Full Stack Developer in Progress.
 
 ## About Me
 Focused on building production style web applications with strong logic & fundamentals.
