@@ -1,8 +1,7 @@
-## Hi there 👋
+# Rahul - Full Stack Developer in Progress 👋
 
 ## About Me
-I’m learning web development by building small, focused projects.
-
+Focused on building production style web applications with strong logic & fundamentals.
 
 ## Tech Stack
 - HTML
