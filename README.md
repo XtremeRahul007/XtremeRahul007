@@ -9,5 +9,18 @@ Focused on building production style web applications with strong logic & fundam
 - JavaScript
 - Git & GitHub
 
-## Current Status 
-Currently working on responsive UI and JavaScript fundamentals.
+## Learning Deeply
+- Responsive UI architecture
+- Core JavaScript fundamentals (logic, state, array, DOM, async patterns)
+
+## Currently Building 
+- **Smart File Manager**
+  - Persistent storage using `IndexedDB`
+  - Folder & file simulation system
+  - Search & structured state management
+
+| Skill Area | Technologies |
+|------------|-------------|
+| Frontend   | HTML, CSS, JavaScript |
+| Backend    | Node.js (learning) |
+| Storage    | IndexedDB |
