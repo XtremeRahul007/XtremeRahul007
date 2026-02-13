@@ -22,5 +22,5 @@ Focused on building production style web applications with strong logic & fundam
 | Skill Area | Technologies |
 |------------|-------------|
 | Frontend   | HTML, CSS, JavaScript |
-| Backend    | Node.js (learning) |
+| Backend    | None |
 | Storage    | IndexedDB |
