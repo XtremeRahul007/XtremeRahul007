@@ -12,6 +12,8 @@ Focused on building production style web applications with strong logic & fundam
 ## Learning Deeply
 - Responsive UI architecture
 - Core JavaScript fundamentals (logic, state, array, DOM, async patterns)
+- Singleton State Management (Raw JS)
+- Centralized State Management (Raw JS)
 
 
 ## Long-Term Direction
