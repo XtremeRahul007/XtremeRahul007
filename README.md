@@ -6,6 +6,7 @@ Focused on building production style web applications with strong logic & fundam
 ## Tech Stack
 - HTML
 - CSS
+- SCSS
 - JavaScript
 - Git & GitHub
 
@@ -28,6 +29,6 @@ Designing scalable backend-driven applications using Node.js and structured arch
 
 | Skill Area | Technologies |
 |------------|-------------|
-| Frontend   | HTML, CSS, JavaScript |
+| Frontend   | HTML, CSS, SCSS, JavaScript |
 | Backend    | None |
-| Storage    | IndexedDB |
+| Storage    | IndexedDB, Local Storage |
