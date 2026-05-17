@@ -8,6 +8,7 @@ Focused on building production style web applications with strong logic & fundam
 - CSS
 - SCSS
 - JavaScript
+- TypeScript 
 - Git & GitHub
 
 ## Learning Deeply
@@ -15,7 +16,7 @@ Focused on building production style web applications with strong logic & fundam
 - Core JavaScript fundamentals (logic, state, array, DOM, async patterns)
 - Singleton State Management (Raw JS)
 - Centralized State Management (Raw JS)
-
+- Asynchronisation behaviour and logic.
 
 ## Long-Term Direction
 Designing scalable backend-driven applications using Node.js and structured architecture
@@ -29,6 +30,6 @@ Designing scalable backend-driven applications using Node.js and structured arch
 
 | Skill Area | Technologies |
 |------------|-------------|
-| Frontend   | HTML, CSS, SCSS, JavaScript |
+| Frontend   | HTML, CSS, SCSS, JavaScript, TypeScript |
 | Backend    | None |
 | Storage    | IndexedDB, Local Storage |
