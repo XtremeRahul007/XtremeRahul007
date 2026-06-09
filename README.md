@@ -1,4 +1,4 @@
-# Rahul Manna - Backend & Full Stack Developer in Progress
+# Rahul - Backend & Full Stack Developer in Progress
 
 ## About Me
 
