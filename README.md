@@ -15,6 +15,7 @@ I enjoy solving complex problems, designing structured applications, and underst
 - CSS
 - SCSS
 - JavaScript (ES6+)
+- TypeScript
 
 ### Backend
 - Node.js
