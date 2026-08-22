@@ -1,4 +1,6 @@
-# Rahul — Backend & Full Stack Developer in Progress
+# Backend-Focused Full Stack Developer | Exploring Systems Programming
+
+West Bengal, India
 
 ## Tech Stack
 
