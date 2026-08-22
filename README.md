@@ -1,114 +1,49 @@
-# Rahul - Backend & Full Stack Developer in Progress
-
-## About Me
-
-Focused on building production-style applications with strong fundamentals, clean architecture, and scalable backend systems.
-
-I enjoy solving complex problems, designing structured applications, and understanding how software works beneath the surface rather than relying solely on frameworks.
-
----
+# Rahul — Backend & Full Stack Developer in Progress
 
 ## Tech Stack
 
-### Frontend
-- HTML
-- CSS
-- SCSS
-- JavaScript (ES6+)
-- TypeScript
+**Programming Languages:** JavaScript, TypeScript, Rust
 
-### Backend
-- Node.js
-- Express.js
-- TypeScript
+**Query Language:** SQL
 
-### Storage & Data
-- IndexedDB
-- Local Storage
-- JSON-based Metadata Storage
-- File System (fs)
+**Markup & Styling:** HTML, CSS, SCSS
 
-### Tools
-- Git
-- GitHub
+**Runtime:** Node.js
 
----
+**Frameworks:** Express.js, Tailwind CSS
+
+**Database & Storage:** PostgreSQL, IndexedDB
+
+**Tools:** Git, GitHub, Linux, Zed
+
+## Projects
+
+| Project                | Description                      | Links                                                          |
+| ---------------------- | -------------------------------- | -------------------------------------------------------------- |
+| **DevVault**           | Self-hosted file storage backend | [GitHub](https://github.com/XtremeRahul007/devvault-api)       |
+| **Smart File Manager** | Browser-based file manager       | [GitHub](https://github.com/XtremeRahul007/smart-task-manager) |
+| **rxsig**              | File signature detection CLI     | [GitHub](https://github.com/XtremeRahul007/rxsig)              |
 
 ## Currently Learning
 
 - Backend Architecture
 - REST API Design
+- PostgreSQL
 - Authentication & Authorization
-- TypeScript for Large Applications
-- Scalable Application Structure
-- File Storage Systems
-- System Design Fundamentals
-
----
-
-## Featured Projects
-
-### DevVault
-Self-hosted cloud storage backend inspired by Google Drive.
-
-#### Features
-- File Upload & Download
-- File Rename & Delete
-- Folder Hierarchy Support
-- Metadata Synchronization
-- REST API Architecture
-- Local File System Storage
-- JSON Metadata Management
-
-#### Built With
-- Node.js
-- Express.js
+- Session Management
 - TypeScript
-- Multer
-- File System (fs)
+- System Design
 
-#### Future Roadmap
-- JWT Authentication
-- Role-Based Access Control
-- Activity Logging
-- Storage Analytics
-- User Dashboard
-- Admin Dashboard
-- LAN File Sharing
-
----
-
-### Smart File Manager
-
-Production-style browser file manager built using raw JavaScript.
-
-#### Features
-- IndexedDB Persistence
-- Folder & File Simulation
-- Search Functionality
-- Custom State Management
-- Centralized Application State
-- Local Storage Integration
-
-#### Focus Areas
-- State Architecture
-- Async Programming
-- Data Persistence
-- Complex UI Logic
-
----
-
-## Areas of Interest
+## Interests
 
 - Backend Development
 - Full Stack Development
 - API Engineering
+- Authentication
+- WebSockets
+- Performance Optimization
 - System Design
-- Storage Systems
-- Application Architecture
 
----
+## Goal
 
-## Long-Term Goal
-
-Build scalable backend systems, contribute to impactful products, and grow into a software engineer capable of designing and maintaining production-scale applications.
+Build reliable, scalable, production grade software.
