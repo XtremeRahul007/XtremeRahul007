@@ -20,12 +20,12 @@ West Bengal, India
 
 ## Projects
 
-| Project                | Description                                  | Links                                                          |
-| ---------------------- | -------------------------------------------- | -------------------------------------------------------------- |
-| **Grid Nexus**         | Tic Tac Toe Gaming Server (Work in Progress) | [GitHub](https://github.com/XtremeRahul007/grid-nexus)         |
-| **DevVault**           | Self-hosted file storage backend             | [GitHub](https://github.com/XtremeRahul007/devvault-api)       |
-| **Smart File Manager** | Browser-based file manager                   | [GitHub](https://github.com/XtremeRahul007/smart-task-manager) |
-| **rxsig**              | File signature detection CLI                 | [GitHub](https://github.com/XtremeRahul007/rxsig)              |
+| Project                | Description                                    | Links                                                          |
+| ---------------------- | ---------------------------------------------- | -------------------------------------------------------------- |
+| **Grid Nexus**         | Tic Tac Toe Gaming Server (Work in Progress)   | [GitHub](https://github.com/XtremeRahul007/grid-nexus)         |
+| **DevVault**           | Self-hosted file storage backend               | [GitHub](https://github.com/XtremeRahul007/devvault-api)       |
+| **Smart File Manager** | Browser-based file manager                     | [GitHub](https://github.com/XtremeRahul007/smart-task-manager) |
+| **rxsig**              | File signature detection CLI (Work in Progress)| [GitHub](https://github.com/XtremeRahul007/rxsig)              |
 
 ## Currently Learning
 
